@@ -4,8 +4,7 @@ Hi 👋 My name is Vladimir Cvejanov
 Web Developer
 -------------
 
-Ranked as Jimmy with an engineering background. 
-On my way to escaping Tutorial Ville and Code myself into GOD MODE! :P
+Ranked as Jimmy with an engineering background. </br>On my way to escaping Tutorial Ville and Code myself into GOD MODE! :P
 
 * 🌍  I'm based in Valencia (Spain);
 * ✉️  You can contact me at [vladimir.cvejanov@gmail.com](mailto:vladimir.cvejanov@gmail.com)
