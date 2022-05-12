@@ -1,4 +1,4 @@
-Hi 👋 My name is Vladimir Cvejanov
+Hi 👋 My name is Vlad!
 ==================================
 
 Web Developer
