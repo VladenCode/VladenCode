@@ -6,7 +6,7 @@ Web Developer
 
 Ranked as Jimmy with an engineering background. </br>On my way to escaping Tutorial Ville and Code myself into GOD MODE! :P
 
-* 🌍  I'm based in Valencia (Spain);
+* 🌍  I'm based in Spain;
 * ✉️  You can contact me at [vladimir.cvejanov@gmail.com](mailto:vladimir.cvejanov@gmail.com)
 * 🧠  I'm learning Fundamentals of Web Development;
 * 🔭  I’m currently working on my Portfolio website;
