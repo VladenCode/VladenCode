@@ -1,4 +1,4 @@
-Hi 👋 My name is Vlad!
+Well, HELLO THERE 👋
 ==================================
 
 Web Developer
