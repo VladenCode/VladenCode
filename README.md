@@ -1,16 +1,14 @@
 Well, HELLO THERE 👋
 ==================================
 
-Web Developer
+Boot.dev Developer
 -------------
 
-Ranked as Jimmy with an engineering background. </br>On my way to escaping Tutorial Ville and Code myself into GOD MODE! :P
-
 * 🌍  I'm based in Spain;
-* ✉️  You can contact me at [vladimir.cvejanov@gmail.com](mailto:vladimir.cvejanov@gmail.com)
-* 🧠  I'm learning Fundamentals of Web Development;
-* 🔭  I’m currently working on my Portfolio website;
-* 🤝  I'm open to collaborating on novice level projects;
+* ✉️  You can contact me if you can!Muhaha
+* 🧠  I'm learning Fundamentals back end development;
+* 🔭  I’m currently working git course;
+* 🤝  I'm open to collaborating on open source projects;
 * ⚡  Fun fact: Ctrl + C; Ctrl + V and Ctrl + Z saved more life than Batman!
 
 ### Skills
