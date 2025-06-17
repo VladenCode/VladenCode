@@ -5,9 +5,9 @@ Boot.dev Developer
 -------------
 
 * 🌍  I'm based in Spain;
-* ✉️  You can contact me if you can!Muhaha
-* 🧠  I'm learning Fundamentals back end development;
-* 🔭  I’m currently working git course;
+* ✉️  You can contact me via social links;
+* 🧠  I'm learning Cloud computing starting with AWS;
+* 🔭  I’m currently learning on [learntocloud](https://learntocloud.guide);
 * 🤝  I'm open to collaborating on open source projects;
 * ⚡  Fun fact: Ctrl + C; Ctrl + V and Ctrl + Z saved more life than Batman!
 
