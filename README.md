@@ -7,7 +7,7 @@ AWS Cloud Student
 * 🌍  I'm based in Spain;
 * ✉️  You can contact me via social links;
 * 🧠  I'm learning Cloud computing starting with AWS;
-* 🔭  I’m currently learning on [learntocloud](https://learntocloud.guide);
+* 🔭  I’m currently learning on [learntocloud](https://www.nextwork.org/);
 * 🤝  I'm open to collaborating on open source projects;
 * ⚡  Fun fact: Ctrl + C; Ctrl + V and Ctrl + Z saved more life than Batman!
 
