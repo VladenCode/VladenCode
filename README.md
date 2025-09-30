@@ -1,7 +1,7 @@
 Well, HELLO THERE 👋
 ==================================
 
-Boot.dev Developer
+AWS Cloud Student
 -------------
 
 * 🌍  I'm based in Spain;
