@@ -52,7 +52,7 @@
     <td align="center" width="30%">
       <a href="https://github.com/VladenCode/asteroids-boot.dev">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhld3poYnIycW1mODFjNzRtY21taW50YWUxNDE3ZDBid2xvdjViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z57nGtGDYb9qMeSWsj/giphy.gif"
-             alt="Project 1"
+             alt="AsteroidGame - Boot.Dev"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
