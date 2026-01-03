@@ -52,15 +52,15 @@
     <td align="center" width="30%">
       <a href="https://github.com/VladenCode/asteroids-boot.dev">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhld3poYnIycW1mODFjNzRtY21taW50YWUxNDE3ZDBid2xvdjViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z57nGtGDYb9qMeSWsj/giphy.gif"
-             alt="AsteroidGame - Boot.Dev"
+             alt="Project1"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Project 1</b><br/>
+      <b>AsteroidGame - Boot.Dev</b><br/>
       <sub>Build in Progress</sub><br/>
       🔗 <a href="#">Repo</a>
       <br/>
-      <sub>Tags: AI, AWS, Python</sub>
+      <sub>Tags:Python</sub>
     </td>
     <td width="5%"></td> <!-- Spacer column -->
     <td align="center" width="30%">
