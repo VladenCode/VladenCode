@@ -48,7 +48,7 @@
 <div align="center">
 <table style="width:90%; table-layout:fixed;">
   <tr>
-    <td width="5%"></td> <td align="center" width="30%">
+    <td align="center" width="30%">
       <a href="https://github.com/VladenCode/asteroids-boot.dev">
         <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png"
              alt="Asteroid game"
