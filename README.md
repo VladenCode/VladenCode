@@ -58,7 +58,7 @@
       <br/>
       <b>AsteroidGame - Boot.Dev</b><br/>
       <sub>Build in Progress</sub><br/>
-      🔗 <a href="#">Repo</a>
+      🔗 <a href="https://github.com/VladenCode/asteroids-boot.dev">Repo</a>
       <br/>
       <sub>Tags:Python</sub>
     </td>
