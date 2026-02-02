@@ -48,22 +48,21 @@
 <div align="center">
 <table style="width:90%; table-layout:fixed;">
   <tr>
-    <td align="center" width="30%">
-  <a href="https://github.com/VladenCode/asteroids-boot.dev">
-    <div style="background-color: white; padding: 5px; display: inline-block;">
-      <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png?raw=true"
-           alt="Asteroid-game"
-           width="200"
-           height="200"
-           style="display: block;">
-    </div>
-  </a>
-  <br>
-  <b>AsteroidGame - Boot.Dev</b>
-        <br>Become the galaxy Hero!<br>
-  🔗 <a href="https://github.com/VladenCode/asteroids-boot.dev">Repo</a><br>
-  <small>Tags: Python</small>
-</td>
+    <td width="5%"></td> <td align="center" width="30%">
+      <a href="https://github.com/VladenCode/asteroids-boot.dev">
+        <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png"
+             alt="Asteroid game"
+             width="200"
+             height="200"
+             border="6">
+      </a>
+      <br/>
+      <b>Asteroid game</b><br/>
+      <sub>Become the Hero of the Galaxy!</sub><br/>
+      🔗 <a href="https://github.com/VladenCode/asteroids-boot.dev">Repo</a>
+      <br/>
+      <sub>Tags: AI, AWS, Python</sub>
+    </td>
     <td width="5%"></td> <td align="center" width="30%">
       <a href="#">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhld3poYnIycW1mODFjNzRtY21taW50YWUxNDE3ZDBid2xvdjViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z57nGtGDYb9qMeSWsj/giphy.gif"
