@@ -48,17 +48,19 @@
 <div align="center">
 <table style="width:90%; table-layout:fixed;">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="30%">
   <a href="https://github.com/VladenCode/asteroids-boot.dev">
-    <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png?raw=true"
-         alt="Asteroid-game"
-         width="200"
-         height="200"
-         border="5">
+    <div style="background-color: white; padding: 5px; display: inline-block;">
+      <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png?raw=true"
+           alt="Asteroid-game"
+           width="200"
+           height="200"
+           style="display: block;">
+    </div>
   </a>
   <br>
-  <b>AsteroidGame - Boot.Dev</b><br>
-  Become the galaxy Hero!<br>
+  <b>AsteroidGame - Boot.Dev</b>
+        <br>Become the galaxy Hero!<br>
   🔗 <a href="https://github.com/VladenCode/asteroids-boot.dev">Repo</a><br>
   <small>Tags: Python</small>
 </td>
