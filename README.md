@@ -51,13 +51,18 @@
   <tr>
     <td align="center" width="30%">
       <a href="#">
-        <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png"
-             alt="Project1"
-             style="width:100%; height:200px; object-fit:cover;"/>
+        <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png?raw=true"
+     alt="Asteroid-game"
+     style="width: 100%; 
+            height: 300px; 
+            object-fit: cover; 
+            border: 5px solid white; 
+            border-radius: 8px;
+            box-sizing: border-box;"/>
       </a>
       <br/>
       <b>AsteroidGame - Boot.Dev</b><br/>
-      <sub>Build in Progress</sub><br/>
+      <sub>Become the galaxy Hero!</sub><br/>
       🔗 <a href="https://github.com/VladenCode/asteroids-boot.dev">Repo</a>
       <br/>
       <sub>Tags:Python</sub>
