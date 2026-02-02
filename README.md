@@ -61,7 +61,7 @@
   <sub>Become the Hero of the Galaxy!</sub><br/>
   🔗 <a href="https://github.com/VladenCode/asteroids-boot.dev">Repo</a>
   <br/>
-  <sub>Tags:Python</sub>
+  <sub>Tags: Python</sub>
 </td>
     <td width="5%"></td> <td align="center" width="30%" style="border: none;">
       <a href="#">
