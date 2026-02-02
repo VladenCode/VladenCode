@@ -51,11 +51,14 @@
   <tr>
     <td align="center" width="30%">
       <a href="#">
-        <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png?raw=true" 
-       alt="Asteroid-game" 
-       width="100%" 
-       border="10" 
-       style="border: 10px solid white; display: block; margin: auto;">
+        <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png?raw=true"
+         alt="Asteroid-game"
+         style="width:100%; 
+                height:200px; 
+                object-fit:cover; 
+                border: 5px solid white; 
+                box-sizing: border-box; 
+                display: block;">
       </a>
       <br/>
       <b>AsteroidGame - Boot.Dev</b><br/>
