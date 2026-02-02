@@ -46,7 +46,7 @@
 <h3 align="center">Projects - showcase</h3>
 
 <div align="center">
-<table style="width:90%; table-layout:fixed;">
+<table border="0" cellspacing="0" cellpadding="0" style="width:100%; table-layout:fixed; border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="30%">
   <a href="https://github.com/VladenCode/asteroids-boot.dev">
