@@ -48,14 +48,13 @@
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="0" style="width:100%; table-layout:fixed; border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="30% style="border: none;">
   <a href="https://github.com/VladenCode/asteroids-boot.dev">
     <img src="https://raw.githubusercontent.com/VladenCode/asteroids-boot.dev/main/assets/asteroid_game.png"
          alt="Asteroid game"
          width="200"
          height="200"
-         border="6"
-         style="width: 200px; height: 200px; object-fit: cover;">
+         style="width: 200px; height: 200px; object-fit: cover; border: none;">
   </a>
   <br/>
   <b>Asteroid game</b><br/>
@@ -64,13 +63,13 @@
   <br/>
   <sub>Tags:Python</sub>
 </td>
-    <td width="5%"></td> <td align="center" width="30%">
+    <td width="5%"></td> <td align="center" width="30%" style="border: none;">
       <a href="#">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhld3poYnIycW1mODFjNzRtY21taW50YWUxNDE3ZDBid2xvdjViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z57nGtGDYb9qMeSWsj/giphy.gif"
              alt="Project 1"
              width="200"
              height="200"
-             border="6">
+             style="border: none;">
       </a>
       <br/>
       <b>Project 1</b><br/>
@@ -79,13 +78,13 @@
       <br/>
       <sub>Tags: AI, AWS, Python</sub>
     </td>
-    <td width="5%"></td> <td align="center" width="30%">
+    <td width="5%"></td> <td align="center" width="30%" style="border: none;">
       <a href="#">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhld3poYnIycW1mODFjNzRtY21taW50YWUxNDE3ZDBid2xvdjViNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z57nGtGDYb9qMeSWsj/giphy.gif"
              alt="Project 1"
              width="200"
              height="200"
-             border="6">
+             style="border: none;">
       </a>
       <br/>
       <b>Project 1</b><br/>
@@ -96,10 +95,4 @@
     </td>
   </tr>
 </table>
-</div>
-
-## <h3 align="center">Stats</h3>
-<br>
-<div align=center>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VladenCode&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
