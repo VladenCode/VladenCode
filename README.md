@@ -53,13 +53,15 @@
       <a href="https://github.com/VladenCode/asteroids-boot.dev">
         <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png?raw=true"
          alt="Asteroid-game"
+         width="200"
+         height="200"
          style="width: 200px; 
                 height: 200px; 
                 object-fit: cover; 
-                border: 3px solid white; 
-                border-radius: 5px;
+                border: 4px solid white; 
+                box-sizing: border-box;
                 display: block;
-                margin: 0 auto 10px auto;">
+                margin: 0 auto;">
       </a>
       <br/>
       <b>AsteroidGame - Boot.Dev</b><br/>
