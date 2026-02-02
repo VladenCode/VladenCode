@@ -50,15 +50,16 @@
 <table style="width:90%; table-layout:fixed;">
   <tr>
     <td align="center" width="30%">
-      <a href="#">
+      <a href="https://github.com/VladenCode/asteroids-boot.dev">
         <img src="https://github.com/VladenCode/asteroids-boot.dev/blob/main/assets/asteroid_game.png?raw=true"
          alt="Asteroid-game"
-         style="width:100%; 
-                height:200px; 
-                object-fit:cover; 
-                border: 5px solid white; 
-                box-sizing: border-box; 
-                display: block;">
+         style="width: 200px; 
+                height: 200px; 
+                object-fit: cover; 
+                border: 3px solid white; 
+                border-radius: 5px;
+                display: block;
+                margin: 0 auto 10px auto;">
       </a>
       <br/>
       <b>AsteroidGame - Boot.Dev</b><br/>
